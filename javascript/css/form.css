@@ -1,0 +1,104 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgba(42, 81, 84, 0.797);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+
+
+.frm{
+    border: 1px solid white;
+    margin-left: 38%;
+    margin-right: 38%;
+    margin-top: 10%;
+    background-color: white;
+    border-radius: 10px;
+}
+.signup{
+    color: black;
+    font-size:x-large;
+    text-align: center;
+    padding:20px;
+    margin-top: -20px;
+    
+}
+.journy{
+    color: gray;
+    padding-right: 105px;
+    padding-top: 20px;
+
+    
+}
+#uname{
+    height: 30px;
+    width: 220px;
+    
+    border: 1px solid gray;
+    border-radius: 5px ;
+    padding-left: 15px;
+}
+#uemail{
+    height: 30px;
+    width: 220px;
+    
+    border: 1px solid gray;
+    border-radius: 5px ;
+    padding-left: 15px;
+}
+
+#upass{
+    height: 30px;
+    width: 220px;
+    
+    border: 1px solid gray;
+    border-radius: 5px ;
+    padding-left: 15px;
+}
+#ucpass{
+    height: 30px;
+    width: 220px;
+    
+    border: 1px solid gray;
+    border-radius: 5px ;
+    padding-left: 15px;
+}
+
+#smt{
+    height: 30px;
+    width: 240px;
+   
+    border: 1px solid gray;
+    border-radius: 5px ;
+
+    background-color: rgb(0, 115, 255);
+    color: white;
+    
+}
+#smt:hover{
+    background-color: blue;
+}
+
+
+.alrdacc{
+    text-align: center;
+    color: gray;
+    font-size:small;
+    padding-bottom: 50px;
+}
+span a{
+    color:rgb(0, 115, 255);
+    text-decoration: none;
+}
+span{
+    color: red;
+    
+}
+
+
